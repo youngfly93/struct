@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "queue": "c",
+        "vector": "c",
+        "iosfwd": "c",
+        "string": "cpp"
+    }
+}
