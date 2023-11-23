@@ -3,6 +3,9 @@
         "queue": "c",
         "vector": "c",
         "iosfwd": "c",
-        "string": "cpp"
+        "string": "cpp",
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c"
     }
 }
